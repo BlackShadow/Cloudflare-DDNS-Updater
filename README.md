@@ -1,5 +1,5 @@
 # Cloudflare-DDNS-Updater
-A simple python script automatically updates your A records IP address in Cloudflare.
+A simple python script automatically updates your A records IP address in Cloudflare. Great tool for people without Static IP addresses.
 
 
 # Usage
